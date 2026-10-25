@@ -4,19 +4,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Generative+AI+%7C+Agentic+AI;Applied+Machine+Learning;B.Tech+CSE+Student" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="./profile-particles.svg" alt="Visual map" width="560" />
+</p>
+
 ```text
 ┌──────────────────────────────────────────────┐
-│  SYSTEM.INFO                                 │
+│ SYSTEM.INFO                                  │
 ├──────────────────────────────────────────────┤
-│  User ........ Vpkram                        │
-│  Role ........ B.Tech CSE Student            │
-│  Origin ...... Annamacharya University       │
-│  Focus ....... GenAI · Agentic AI · ML       │
-│  Status ...... Building & learning           │
+│ User ........ Vpkram                         │
+│ Role ........ B.Tech CSE Student             │
+│ Origin ...... Annamacharya University        │
+│ Focus ....... GenAI · Agentic AI · ML        │
+│ Status ...... Building & learning            │
 ├──────────────────────────────────────────────┤
-│  Core.Lang ... Python · HTML/CSS/JS          │
-│  Core.AI ..... Groq API · LLaMA 3.x · MCP    │
-│  Core.Tools .. Streamlit · Scikit-learn      │
+│ Core.Lang ... Python · HTML/CSS/JS           │
+│ Core.AI ..... Groq API · LLaMA 3.x · MCP     │
+│ Core.Tools .. Streamlit · Scikit-learn       │
 └──────────────────────────────────────────────┘
 ```
 
@@ -49,4 +53,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vpkram&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- STEP B: animated visual goes here -->
