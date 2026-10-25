@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./hero.svg" alt="Portrait and system info" width="900" />
+  <img src="./profile-hero.svg" alt="Portrait and system info" width="900" />
 </p>
 
 ## 🚀 Projects
