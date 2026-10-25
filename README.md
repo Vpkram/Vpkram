@@ -44,9 +44,10 @@
 
 ## 📬 Contact
 
-<p>
-  <a href="https://www.linkedin.com/in/vanama-pavan-kalyan-ram-24a79034b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vpkram78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vanama-pavan-kalyan-ram-24a79034b"><img src="./contact-linkedin.svg" width="280" alt="LINKEDIN" /></a>
+  <a href="mailto:vpkram78@gmail.com"><img src="./contact-email.svg" width="280" alt="EMAIL" /></a>
+  <a href="https://github.com/Vpkram"><img src="./contact-github.svg" width="280" alt="GITHUB" /></a>
 </p>
 
 <p align="center">
