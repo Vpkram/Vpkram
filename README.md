@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./profile-particles.svg" alt="Visual map" width="560" />
+  <img src="./profile-particles.svg" alt="Visual map" width="380" />
 </p>
 
 ```text
