@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/a78bfa/Vpkram" alt="Contribution heatmap" width="90%" />
+  <img src="./heatmap.svg" alt="Contribution heatmap" width="90%" />
 </p>
 
 ## 📬 Contact
