@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="./heatmap.svg" alt="Contribution heatmap" width="90%" />
+  <img src="https://raw.githubusercontent.com/Vpkram/Vpkram/output/github-snake-dark.svg" alt="Contribution snake" width="90%" />
 </p>
 
 ## 📬 Contact
