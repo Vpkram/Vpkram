@@ -5,24 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="./profile-particles.svg" alt="Visual map" width="380" />
+  <img src="./hero.svg" alt="Portrait and system info" width="900" />
 </p>
-
-```text
-┌──────────────────────────────────────────────┐
-│ SYSTEM.INFO                                  │
-├──────────────────────────────────────────────┤
-│ User ........ Vpkram                         │
-│ Role ........ B.Tech CSE Student             │
-│ Origin ...... Annamacharya University        │
-│ Focus ....... GenAI · Agentic AI · ML        │
-│ Status ...... Building & learning            │
-├──────────────────────────────────────────────┤
-│ Core.Lang ... Python · HTML/CSS/JS           │
-│ Core.AI ..... Groq API · LLaMA 3.x · MCP     │
-│ Core.Tools .. Streamlit · Scikit-learn       │
-└──────────────────────────────────────────────┘
-```
 
 ## 🚀 Projects
 
