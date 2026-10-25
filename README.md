@@ -54,6 +54,16 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vpkram&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🔥 Streak & Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vpkram&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vpkram&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</p>
+
 ## 📬 Contact
 
 <p>
