@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vpkram&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img src="https://ghchart.rshah.org/a78bfa/Vpkram" alt="Contribution heatmap" width="90%" />
 </p>
 
 ## 📬 Contact
