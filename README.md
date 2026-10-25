@@ -11,12 +11,12 @@
 ## 🚀 Projects
 
 <p align="center">
-  <a href="https://github.com/Vpkram/autonomous-code-review-bug-detector"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vpkram&repo=autonomous-code-review-bug-detector&theme=tokyonight&hide_border=true&description_lines_count=2&v=2" /></a>
-  <a href="https://github.com/Vpkram/rural-learning-path"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vpkram&repo=rural-learning-path&theme=tokyonight&hide_border=true&description_lines_count=2&v=2" /></a>
-  <a href="https://github.com/Vpkram/Credit-Card-Fraud-Detection"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vpkram&repo=Credit-Card-Fraud-Detection&theme=tokyonight&hide_border=true&description_lines_count=2&v=2" /></a>
-  <a href="https://github.com/Vpkram/Spam-Mail-Prediction"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vpkram&repo=Spam-Mail-Prediction&theme=tokyonight&hide_border=true&description_lines_count=2&v=2" /></a>
-  <a href="https://github.com/Vpkram/eda-titanic-analysis"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vpkram&repo=eda-titanic-analysis&theme=tokyonight&hide_border=true&description_lines_count=2&v=2" /></a>
-  <a href="https://github.com/Vpkram/chatbotone"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vpkram&repo=chatbotone&theme=tokyonight&hide_border=true&description_lines_count=2&v=2" /></a>
+  <a href="https://github.com/Vpkram/autonomous-code-review-bug-detector"><img src="./card1.svg" width="49%" alt="autonomous-code-review-bug-detector" /></a>
+  <a href="https://github.com/Vpkram/rural-learning-path"><img src="./card2.svg" width="49%" alt="rural-learning-path" /></a>
+  <a href="https://github.com/Vpkram/Credit-Card-Fraud-Detection"><img src="./card3.svg" width="49%" alt="Credit-Card-Fraud-Detection" /></a>
+  <a href="https://github.com/Vpkram/Spam-Mail-Prediction"><img src="./card4.svg" width="49%" alt="Spam-Mail-Prediction" /></a>
+  <a href="https://github.com/Vpkram/eda-titanic-analysis"><img src="./card5.svg" width="49%" alt="eda-titanic-analysis" /></a>
+  <a href="https://github.com/Vpkram/chatbotone"><img src="./card6.svg" width="49%" alt="chatbotone" /></a>
 </p>
 
 ## 🛠️ Tech Stack
