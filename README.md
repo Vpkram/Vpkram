@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pavan Kalyan Ram 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Generative+AI+%7C+Agentic+AI;Applied+Machine+Learning;B.Tech+CSE+Student" alt="Typing SVG" />
+  <img src="./typing.svg" alt="Generative AI | Agentic AI | Applied ML | B.Tech CSE" width="600" />
 </p>
 
 <p align="center">
