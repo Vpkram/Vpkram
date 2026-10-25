@@ -26,13 +26,14 @@
 
 ## 🚀 Projects
 
-| Project | What it does |
-|---|---|
-| [Autonomous Code Review & Bug Detector](https://github.com/Vpkram/autonomous-code-review-bug-detector) | AI agent that reviews code and suggests bug fixes |
-| [Rural Learning Path](https://github.com/Vpkram/rural-learning-path) | Personalized learning paths for rural students |
-| [Credit Card Fraud Detection](https://github.com/Vpkram/Credit-Card-Fraud-Detection) | ML model to flag fraudulent transactions |
-| [Spam Mail Prediction](https://github.com/Vpkram/Spam-Mail-Prediction) | Classifies emails as spam or not spam |
-| [Titanic Analysis](https://github.com/Vpkram/eda-titanic-analysis) | EDA and logistic/linear regression on Titanic data |
+<p align="center">
+  <a href="https://github.com/Vpkram/autonomous-code-review-bug-detector"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vpkram&repo=autonomous-code-review-bug-detector&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Vpkram/rural-learning-path"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vpkram&repo=rural-learning-path&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Vpkram/Credit-Card-Fraud-Detection"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vpkram&repo=Credit-Card-Fraud-Detection&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Vpkram/Spam-Mail-Prediction"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vpkram&repo=Spam-Mail-Prediction&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Vpkram/eda-titanic-analysis"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vpkram&repo=eda-titanic-analysis&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Vpkram/chatbotone"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vpkram&repo=chatbotone&theme=tokyonight&hide_border=true" /></a>
+</p>
 
 ## 🛠️ Tech Stack
 
